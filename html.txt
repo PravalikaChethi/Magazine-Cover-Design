@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Modern Vibes Magazine</title>
+  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&family=Roboto&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="magazine-cover">
+    <div class="overlay"></div>
+    <h1 class="mag-title">Modern Vibes</h1>
+
+    <div class="headlines">
+      <h2 class="headline headline-1">Top 10 Creative Minds of 2025</h2>
+      <h2 class="headline headline-2">Design Trends That Rule</h2>
+      <p class="caption caption-1">Exploring the rise of minimalism</p>
+      <p class="caption caption-2">From digital to print: A journey</p>
+    </div>
+
+    <button class="subscribe-btn">Subscribe Now</button>
+  </div>
+</body>
+</html>
